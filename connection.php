@@ -1,4 +1,5 @@
 <?php
+// hello
 
 // $serverName = "SARFARAZ";
 // $database = "Class_db";
